@@ -1,0 +1,28 @@
+name: Ken Stigler Photography
+favicon: null
+layout_spectrum: 0.5451533820014447
+typography_spectrum: 0.6525521746370941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.05405254871584475
+  lightness: 0.7760338874068111
+  saturation: 0.4385623934213072
+  rhythmicContrast: 0.8927196895238012
+purpose: []
